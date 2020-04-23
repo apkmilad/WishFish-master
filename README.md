@@ -11,7 +11,7 @@ $ apt install wget
 
 $ apt install openssh
 
-$ git clone ادرس گیتاپ
+$ git clone https://github.com/apkmilad/WishFish-master
 
 <h3>Usage</h3>
 
@@ -21,12 +21,8 @@ Now turn your device hotspot
 
 $ bash wishfish.sh
 
-<p>Sometimes servero server is down so always go with ngrok for instant link and wait until it generates url for then send it to victim.
+<p>نوشته شده در کانال اپ میلاد این فقط جنبه  اموزشی داره.
 </p>
- Watch Video :-https://t.me/App_MILAD
-<h4>Note :- If victim open this url in chrome or android inbuilt browser then it can access victim camera by allowing permissions and send snap to you.
-</h4>
-This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool.
+ کانال تلگرام ما :-https://t.me/App_MILAD
 
-
-                                              apkmilad By github.com/apkmilad
+                             apkmilad By github.com/apkmilad
